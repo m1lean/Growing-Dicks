@@ -1,0 +1,14 @@
+C:\Users\Alexander\source\repos\dick\dick\bin\Release\net8.0\dick.exe
+C:\Users\Alexander\source\repos\dick\dick\bin\Release\net8.0\dick.deps.json
+C:\Users\Alexander\source\repos\dick\dick\bin\Release\net8.0\dick.runtimeconfig.json
+C:\Users\Alexander\source\repos\dick\dick\bin\Release\net8.0\dick.dll
+C:\Users\Alexander\source\repos\dick\dick\bin\Release\net8.0\dick.pdb
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.dll
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\refint\dick.dll
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.pdb
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\dick.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\dick\dick\obj\Release\net8.0\ref\dick.dll
